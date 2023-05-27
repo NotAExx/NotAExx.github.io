@@ -1,0 +1,163 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 750 631" width="750" height="631">
+	<title>xbox base-svg</title>
+	<defs>
+		<filter x="-50%" y="-50%" width="200%" height="200%" id="f1" ><feDropShadow dx="0" dy="0" stdDeviation="2.0833333333333335" flood-color="#dcf252" flood-opacity="1.5"/></filter>
+		<image width="102" height="102" id="img1" href="data:image/png;base64,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"/>
+		<filter x="-50%" y="-50%" width="200%" height="200%" id="f5" ><feDropShadow dx="0" dy="0" stdDeviation="2.0833333333333335" flood-color="#8eda88" flood-opacity="1.5"/></filter>
+	</defs>
+	<style>
+		.s0 { fill: #3b8699 } 
+		.s1 { fill: none } 
+		.s2 { fill: #e6f48d } 
+		.s3 { fill: #0d0808 } 
+		.s4 { filter: url(#f1);fill: #dcf252 } 
+		.s5 { fill: #120b0b } 
+		.s6 { fill: #1a1615 } 
+		.s7 { fill: #0a0a0a;stroke: #000000 } 
+		.s8 { fill: #6d6b6c } 
+		.s9 { fill: #3f93a8;stroke: #140c0c;stroke-width: 2 } 
+		.s10 { fill: #3e727f;stroke: #120b0b;stroke-width: 2 } 
+		.s11 { fill: #0a0a0a } 
+		.s12 { fill: #444547 } 
+		.s13 { fill: #65bc5e } 
+		.s14 { fill: #8eda88 } 
+		.s15 { fill: #1a1a1a } 
+		.s16 { fill: #000000 } 
+		.s17 { fill: #ffffff } 
+		.s18 { filter: url(#f5);fill: #65bc5e } 
+	</style>
+	<g id="Layer_1-2">
+		<path id="Layer" class="s0" d="m664.4 214c-6.8-16.7-20.6-20.9-21.9-22-11.7-10.3-2.4-21.2-19.9-30.7-18.3-9.9-72-37-114.2-31.4-9.2 1.3-27.9 17.6-41.2 17.6h-184.4c-13.3 0-32-16.3-41.2-17.6-42.2-5.6-95.9 21.5-114.2 31.4-17.5 9.5-8.2 20.4-19.9 30.7-1.3 1.1-15.1 5.3-21.9 22-62.7 156-87.3 255.1-85.5 315.1 2.9 94.4 76.6 101.4 76.6 101.4 37-8.7 111.5-129.2 168.5-129.2h259.6c57 0 131.5 120.5 168.5 129.2 0 0 73.7-6.9 76.6-101.4 1.9-60-22.8-159.1-85.5-315.1z"/>
+		<g id="Layer">
+			<path id="Layer" class="s1" d="m106.3 192.6q0.1 0 0.2-0.1 0.2-0.1 0.3-0.2 0.2 0 0.3-0.1 0.2-0.1 0.3-0.2c-0.4 0.2-0.8 0.4-1.1 0.6z"/>
+			<path id="Layer" class="s1" d="m642.6 192q0.1 0.1 0.3 0.2 0.2 0.1 0.4 0.2 0.2 0.1 0.4 0.2 0.2 0.1 0.4 0.2-0.8-0.4-1.5-0.8z"/>
+			<path id="Layer" class="s0" d="m664.4 214q-1-2.5-2.3-4.8-1.4-2.4-3-4.5-1.6-2.1-3.5-4-2-1.9-4.1-3.5-0.9-0.6-1.8-1.2-0.9-0.6-1.8-1.2-0.9-0.5-1.9-1-0.9-0.5-1.9-1-0.2-0.1-0.4-0.2-0.2-0.1-0.4-0.2-0.2-0.1-0.4-0.2-0.2-0.1-0.3-0.2c-33.6-18-97.5-38.2-117.5-34.3-26 5-65.6 79.7-89 79.7h-121c-23.4 0-63-74.7-89-79.7-19.6-3.8-85.6 16.4-118.8 34.3q-0.1 0.1-0.3 0.2-0.1 0.1-0.2 0.1-0.2 0.1-0.3 0.2-0.2 0.1-0.3 0.1-1.2 0.6-2.3 1.2-1.1 0.6-2.2 1.2-1.1 0.7-2.2 1.4-1 0.7-2 1.5-2 1.6-3.8 3.4-1.7 1.8-3.2 3.9-1.5 2-2.7 4.2-1.2 2.2-2.2 4.6c-62.7 156-87.3 255.1-85.5 315.1 2.9 94.4 76.6 101.4 76.6 101.4 37-8.7 111.5-129.2 168.5-129.2h259.6c57 0 131.5 120.5 168.5 129.2 0 0 73.7-6.9 76.6-101.4 1.9-60-22.8-159.1-85.5-315.1z"/>
+		</g>
+		<path id="Layer" class="s1" d="m107.5 192v1.5"/>
+		<path id="Layer" class="s1" d="m642.5 191.5v0.9"/>
+		<g id="Dpad">
+			<g id="Layer">
+				<path id="Layer" class="s2" d="m277.7 462.1c-24.6 0-46.7-14.8-56.1-37.4-9.3-22.7-4.2-48.8 13.2-66.1 17.3-17.3 43.4-22.5 66.1-13.1 22.6 9.4 37.4 31.5 37.4 56 0 7.9-1.6 15.8-4.6 23.2-3.1 7.3-7.6 14-13.2 19.6-5.6 5.7-12.3 10.1-19.6 13.2-7.4 3-15.3 4.6-23.2 4.6z"/>
+				<path id="Layer" fill-rule="evenodd" class="s3" d="m277.7 341.9c24.1 0 45.8 14.5 55 36.8 9.2 22.3 4.1 47.9-12.9 65-17.1 17-42.7 22.1-65 12.9-22.3-9.3-36.8-31-36.8-55.1 0-7.8 1.6-15.6 4.6-22.8 3-7.3 7.3-13.8 12.9-19.4 5.5-5.5 12.1-9.9 19.3-12.9 7.3-3 15-4.5 22.8-4.5m0-2c-24.9 0-47.4 15-56.9 38-9.5 23-4.3 49.5 13.3 67.2 17.7 17.6 44.2 22.9 67.2 13.3 23-9.5 38.1-32 38.1-56.9 0-8.1-1.6-16.1-4.7-23.6-3.1-7.5-7.7-14.3-13.4-20-5.7-5.7-12.5-10.2-20-13.3-7.5-3.1-15.5-4.7-23.6-4.7z"/>
+			</g>
+			<g id="Layer">
+				<g id="Layer">
+					<path id="Layer" class="s4" d="m277.7 452.7c-7.2 0-12.8-1.3-13.1-3.1q0 0 0 0 0 0 0-0.1 0 0 0 0 0 0 0 0v-34.4q0-0.1 0-0.2-0.1-0.1-0.1-0.2-0.1-0.1-0.2-0.1-0.1 0-0.2 0h-34.4c-1.8 0-3.3-5.8-3.3-13.1 0-7.3 1.5-13.1 3.3-13.1h34.4q0.1 0 0.2 0 0.1 0 0.2-0.1 0-0.1 0.1-0.2 0-0.1 0-0.2v-34.4q0 0 0 0 0 0 0-0.1 0 0 0 0 0 0 0 0l0.1-0.3 0.1-0.1c0.5-0.8 2.1-1.5 4.5-2l0.9-0.2q0.1 0 0.2 0 0.2 0 0.3 0 0.1-0.1 0.2-0.1 0.2 0 0.3 0h0.1l0.9-0.1 1-0.1 1-0.1 2.4-0.1h1.1c7.3 0 13 1.4 13 3.3 0 0.1 0 16 0 34.4q0 0.1 0 0.2 0.1 0.1 0.2 0.1 0 0.1 0.1 0.1 0.1 0.1 0.2 0.1h34.4c1.8 0 3.3 5.7 3.3 13 0 7.4-1.5 13.1-3.3 13.1h-34.4q-0.1 0-0.2 0 0 0.1-0.1 0.1-0.1 0.1-0.1 0.2-0.1 0.1-0.1 0.2v34.4q0 0 0 0 0 0.1 0 0.1 0 0 0 0 0 0 0 0.1c-0.3 1.7-5.9 3-13 3z"/>
+					<path id="Layer" fill-rule="evenodd" class="s5" d="m277.7 349.8c6.7 0 13.5 1.2 13.5 3.7v34.4h34.4c5 0 5 27.2 0 27.2h-34.4v34.4q0 0 0 0 0 0 0 0.1 0 0 0 0 0 0.1 0 0.1c-0.4 2.3-7 3.5-13.5 3.5-6.6 0-13.2-1.2-13.6-3.5q0 0 0-0.1 0 0 0 0 0-0.1 0-0.1 0 0 0 0v-34.5h-34.4c-5 0-5-27.1 0-27.1h34.5v-34.4q0 0 0-0.1 0 0 0 0 0 0 0-0.1 0 0 0 0 0 0 0-0.1 0 0 0 0 0 0 0 0 0-0.1 0-0.1 0 0 0 0 0 0 0-0.1 0 0 0 0 0 0 0-0.1 0 0 0 0 0 0 0 0 0-0.1 0-0.1 0.1 0 0.1 0c0.6-1 2.4-1.8 4.8-2.2l0.9-0.2h0.1q0.1 0 0.2-0.1 0.2 0 0.3 0 0.1 0 0.2 0 0.1 0 0.2-0.1h0.1l1-0.1 1-0.1 1-0.1h3.5zm-0.1 1.2h-3.4l-1 0.1-1 0.1-0.9 0.1h-0.2q-0.1 0-0.2 0-0.1 0-0.2 0-0.1 0-0.2 0.1-0.1 0-0.2 0h-0.1q-0.4 0.1-0.8 0.2h-0.1c-3.3 0.6-4 1.5-4.2 1.7v0.1q0 0 0 0 0 0 0 0.1 0 0 0 0 0 0 0 0v34.5q0 0.2-0.1 0.4 0 0.1-0.2 0.3-0.1 0.1-0.3 0.2-0.2 0.1-0.4 0.1h-34.4c-1.2 0-2.8 4.8-2.8 12.5 0 7.8 1.6 12.6 2.8 12.6h34.4q0.2 0 0.4 0.1 0.2 0.1 0.3 0.2 0.2 0.1 0.2 0.3 0.1 0.2 0.1 0.4v34.5c0.2 1.1 4.7 2.7 12.6 2.7 7.9 0 12.3-1.6 12.5-2.7v-34.5q0-0.2 0.1-0.4 0.1-0.2 0.2-0.3 0.2-0.1 0.4-0.2 0.1-0.1 0.3-0.1h34.5c1.1 0 2.7-4.8 2.7-12.6 0-7.7-1.6-12.5-2.7-12.5h-34.5q-0.2 0-0.3-0.1-0.2-0.1-0.4-0.2-0.1-0.1-0.2-0.3-0.1-0.2-0.1-0.4v-34.4c0-1.2-4.4-2.8-12.5-2.8z"/>
+				</g>
+				<path id="Layer" class="s2" d="m264.1 387.9l-3.6-3.6h-30.8q-0.4 0-0.7 0.1-0.4 0-0.8 0.1-0.3 0.1-0.6 0.3-0.4 0.2-0.7 0.4l2.8 2.7z"/>
+				<path id="Layer" class="s2" d="m229.7 387.9l-2.8-2.7c-1.4 0.9-2.7 2.7-3.5 6.1q-0.5 2.5-0.8 5.1-0.2 2.5-0.3 5.1 0.1 2.6 0.3 5.1 0.3 2.6 0.8 5.1c0.8 3.4 2.1 5.2 3.5 6.1l2.8-2.7c-5 0-5-27.2 0-27.2z"/>
+				<path id="Layer" class="s2" d="m269.2 350.5l0.9-0.2h0.1q0.1 0 0.2 0 0.1 0 0.2 0 0.1-0.1 0.3-0.1 0.1 0 0.2 0h0.1l1-0.1 1-0.1 1-0.1h0.1 1 0.2 1 1.2c6.8 0 13.6 1.2 13.6 3.7l2.7-2.7c-0.9-1.4-2.7-2.8-6.1-3.6q-2.6-0.5-5.1-0.8-2.6-0.2-5.1-0.2-2.6 0-5.1 0.2-2.6 0.3-5.1 0.8c-2.9 0.7-4.7 1.8-5.7 3l2.5 2.6c0.7-1.2 2.5-1.9 4.9-2.4z"/>
+				<path id="Layer" class="s2" d="m325.6 387.9l2.8-2.7q-0.3-0.2-0.6-0.4-0.4-0.2-0.7-0.3-0.4-0.1-0.7-0.1-0.4-0.1-0.8-0.1h-30.8l-3.6 3.6z"/>
+				<path id="Layer" class="s2" d="m291.2 353.5c0 0 0 15.4 0 34.4l3.6-3.6v-30.8q0-0.4 0-0.7-0.1-0.4-0.2-0.7-0.1-0.4-0.3-0.7-0.1-0.4-0.3-0.7c0 0-2.8 2.8-2.8 2.8z"/>
+				<path id="Layer" class="s2" d="m264.1 353.5q0 0 0 0 0-0.1 0-0.1 0 0 0-0.1 0 0 0 0v-0.2q0 0 0-0.1 0-0.1 0-0.1 0 0 0.1 0 0 0 0-0.1 0 0 0 0l-2.5-2.6q-0.4 0.4-0.6 0.8-0.2 0.4-0.4 0.8-0.1 0.4-0.2 0.9-0.1 0.4-0.1 0.9v30.8l3.6 3.6z"/>
+				<path id="Layer" class="s2" d="m325.6 415.1l-34.4-0.1 3.6 3.7h32.4l0.3-0.4q0.1 0 0.2-0.1 0.1 0 0.3-0.1 0.1-0.1 0.2-0.1 0.1-0.1 0.2-0.2z"/>
+				<path id="Layer" class="s2" d="m291.2 449.5l2.8 2.7q0.2-0.3 0.4-0.6 0.1-0.3 0.2-0.7 0.1-0.3 0.2-0.7 0-0.4 0-0.7v-30.8l-3.6-3.6z"/>
+				<path id="Layer" class="s2" d="m332 391.3c-0.8-3.4-2.2-5.2-3.6-6.1l-2.7 2.7c5 0 5 27.1 0 27.1l2.8 2.8c1.3-0.9 2.7-2.7 3.5-6.1q0.3-1.3 0.5-2.5 0.2-1.3 0.3-2.6 0.1-1.3 0.2-2.5 0-1.3 0-2.6 0-1.3 0-2.6-0.1-1.3-0.2-2.5-0.1-1.3-0.3-2.6-0.2-1.2-0.5-2.5z"/>
+				<path id="Layer" class="s2" d="m291.2 449.7c-0.4 2.3-7 3.5-13.5 3.5-6.6 0-13.2-1.2-13.6-3.5q0 0 0 0 0-0.1 0-0.1 0 0 0-0.1 0 0 0 0l-2.8 2.7c1 1.4 2.8 2.7 6.2 3.6q2.5 0.5 5.1 0.7 2.5 0.3 5.1 0.3 2.6 0 5.1-0.3 2.6-0.2 5.1-0.7c3.4-0.9 5.2-2.2 6.1-3.6l-2.7-2.7q-0.1 0.1-0.1 0.2z"/>
+				<path id="Layer" class="s2" d="m264.1 449.5v-34.4l-3.6 3.6v31.6l0.1 0.3q0.1 0.2 0.1 0.4 0.1 0.2 0.2 0.4 0.1 0.2 0.2 0.4 0.1 0.2 0.2 0.4z"/>
+				<path id="Layer" class="s2" d="m229.7 415.1l-2.8 2.7q0.3 0.2 0.6 0.4 0.4 0.1 0.7 0.2 0.4 0.2 0.8 0.2 0.3 0.1 0.7 0.1h30.8l3.6-3.7z"/>
+			</g>
+		</g>
+		<g id="Menu_Key">
+			<path id="Layer" class="s6" d="m448.9 280.4c0 7.6-4.6 14.4-11.6 17.4-7 2.9-15.1 1.2-20.5-4.1-5.4-5.4-7-13.5-4.1-20.5 3-7.1 9.8-11.6 17.4-11.6 2.5 0 4.9 0.5 7.2 1.4 2.3 0.9 4.4 2.3 6.1 4.1 1.8 1.7 3.1 3.8 4.1 6.1 0.9 2.3 1.4 4.7 1.4 7.2z"/>
+			<g id="Layer">
+				<path id="Layer" class="s7" d="m446.2 280.4c0 6.5-3.9 12.4-9.9 14.9-6 2.4-13 1.1-17.6-3.5-4.6-4.7-6-11.6-3.5-17.6 2.5-6 8.4-9.9 14.9-9.9 2.1 0 4.2 0.4 6.2 1.2 1.9 0.8 3.7 2 5.2 3.5 1.5 1.5 2.7 3.3 3.5 5.2 0.8 2 1.2 4.1 1.2 6.2z"/>
+				<filter id="f1">
+					<feFlood flood-color="#ffffff" flood-opacity="1" />
+					<feBlend mode="normal" in2="SourceGraphic"/>
+					<feComposite in2="SourceAlpha" operator="in" />
+				</filter>
+				<g id="Layer" filter="url(#f1)">
+					<path id="Layer" class="s8" d="m422.9 275.7h14.4v1.6h-14.4z"/>
+					<path id="Layer" class="s8" d="m422.9 279.7h14.4v1.5h-14.4z"/>
+					<path id="Layer" class="s8" d="m422.9 283.5h14.4v1.5h-14.4z"/>
+				</g>
+			</g>
+		</g>
+		<g id="Switcher_Key">
+			<path id="Layer" class="s6" d="m340.9 280.4c0 7.6-4.5 14.4-11.6 17.3-7 3-15.1 1.4-20.5-4-5.3-5.4-7-13.5-4.1-20.5 3-7.1 9.8-11.6 17.4-11.6 2.5 0 4.9 0.4 7.2 1.4 2.3 0.9 4.4 2.3 6.1 4.1 1.8 1.7 3.2 3.8 4.1 6.1 1 2.3 1.4 4.7 1.4 7.2z"/>
+			<g id="Layer">
+				<path id="Layer" class="s7" d="m338.2 280.4c0 6.5-3.9 12.3-9.9 14.8-6 2.5-13 1.1-17.6-3.5-4.6-4.6-5.9-11.5-3.5-17.5 2.5-6 8.4-9.9 14.9-9.9 2.1 0 4.2 0.4 6.2 1.2 1.9 0.8 3.7 2 5.2 3.5 1.5 1.5 2.7 3.2 3.5 5.2 0.8 2 1.2 4.1 1.2 6.2z"/>
+				<filter id="f2">
+					<feFlood flood-color="#ffffff" flood-opacity="1" />
+					<feBlend mode="normal" in2="SourceGraphic"/>
+					<feComposite in2="SourceAlpha" operator="in" />
+				</filter>
+				<g id="Layer" filter="url(#f2)">
+					<path id="Layer" class="s8" d="m319.6 280.3h-3v-3.8h5.4v1.3h1.8v-3.1h-8.9v7.4h4.7v-1.8z"/>
+					<path id="Layer" fill-rule="evenodd" class="s8" d="m329.4 278.4v7.6h-9v-7.6zm-1.9 1.9h-5.5v3.9h5.5z"/>
+				</g>
+			</g>
+		</g>
+		<g id="Left_Stick">
+			<path id="Layer" class="s9" d="m185.5 351.5c-27.4 0-52.1-16.5-62.6-41.8-10.4-25.3-4.6-54.4 14.7-73.8 19.4-19.3 48.5-25.1 73.8-14.6 25.3 10.4 41.8 35.1 41.8 62.5 0 8.9-1.8 17.7-5.2 25.9-3.4 8.2-8.4 15.7-14.7 21.9-6.3 6.3-13.7 11.3-21.9 14.7-8.2 3.4-17 5.2-25.9 5.2z"/>
+			<path id="Layer" class="s10" d="m241.6 279.9c0 22.7-13.7 43.1-34.7 51.8-20.9 8.7-45.1 3.9-61.1-12.2-16-16-20.8-40.1-12.2-61.1 8.7-21 29.2-34.6 51.9-34.6 7.3 0 14.6 1.4 21.4 4.2 6.8 2.8 13 7 18.2 12.2 5.3 5.2 9.4 11.4 12.2 18.2 2.8 6.8 4.3 14.1 4.3 21.5z"/>
+		</g>
+		<g id="Right_Stick">
+			<path id="Layer" class="s9" d="m473 465.5c-27.4 0-52.1-16.5-62.5-41.8-10.5-25.3-4.7-54.5 14.6-73.8 19.4-19.4 48.5-25.2 73.8-14.7 25.3 10.5 41.8 35.2 41.8 62.6 0 8.9-1.8 17.7-5.2 25.9-3.4 8.2-8.4 15.6-14.6 21.9-6.3 6.3-13.8 11.3-22 14.7-8.2 3.4-17 5.2-25.9 5.2z"/>
+			<path id="Layer" class="s10" d="m529.1 392.8c0.1 22.7-13.6 43.2-34.6 51.9-20.9 8.6-45 3.9-61.1-12.2-16-16-20.9-40.1-12.2-61.1 8.7-21 29.1-34.6 51.8-34.7 7.4 0 14.7 1.5 21.5 4.3 6.8 2.8 13 6.9 18.2 12.1 5.2 5.2 9.4 11.4 12.2 18.2 2.8 6.9 4.3 14.1 4.2 21.5z"/>
+		</g>
+		<g id="Button_Base">
+			<g id="A">
+				<path id="Layer" class="s11" d="m566.8 355.3c-10.2 0-19.4-6.2-23.3-15.6-3.9-9.4-1.7-20.3 5.5-27.5 7.2-7.2 18-9.3 27.5-5.4 9.4 3.9 15.5 13.1 15.5 23.3 0 3.3-0.7 6.6-1.9 9.6-1.3 3.1-3.2 5.9-5.5 8.2-2.3 2.3-5.1 4.2-8.2 5.5-3 1.2-6.3 1.9-9.6 1.9z"/>
+				<path id="Layer" fill-rule="evenodd" class="s12" d="m577 305.4c3.2 1.4 6.2 3.3 8.6 5.8 2.5 2.5 4.5 5.4 5.8 8.7 1.4 3.2 2.1 6.7 2.1 10.2 0 10.8-6.5 20.5-16.5 24.6-10 4.2-21.5 1.9-29.1-5.7-7.6-7.7-9.9-19.1-5.8-29.1 4.1-10 13.9-16.5 24.7-16.5 3.5 0 6.9 0.7 10.2 2zm-19.3 2.8c-2.9 1.2-5.5 2.9-7.7 5.1-2.2 2.2-3.9 4.8-5.1 7.7-1.2 2.9-1.8 6-1.8 9.1 0 9.6 5.7 18.2 14.6 21.9 8.9 3.6 19 1.6 25.8-5.2 6.8-6.7 8.8-16.9 5.2-25.8-3.7-8.9-12.4-14.6-21.9-14.6-3.2 0-6.2 0.6-9.1 1.8z"/>
+			</g>
+			<g id="Y">
+				<path id="Layer" class="s11" d="m566.8 254.2c-10.2 0-19.4-6.2-23.3-15.6-3.9-9.4-1.7-20.2 5.5-27.4 7.2-7.2 18-9.4 27.5-5.5 9.4 3.9 15.5 13.1 15.5 23.3 0 3.3-0.7 6.6-1.9 9.6-1.3 3.1-3.2 5.9-5.5 8.2-2.3 2.4-5.1 4.2-8.2 5.5-3 1.3-6.3 1.9-9.6 1.9z"/>
+				<path id="Layer" fill-rule="evenodd" class="s12" d="m577 204.3c3.2 1.4 6.2 3.4 8.6 5.8 2.5 2.5 4.5 5.4 5.8 8.7 1.4 3.2 2.1 6.7 2.1 10.2 0 10.8-6.5 20.5-16.5 24.7-10 4.1-21.5 1.8-29.1-5.8-7.6-7.6-9.9-19.1-5.8-29.1 4.1-10 13.9-16.5 24.7-16.5 3.5 0 6.9 0.7 10.2 2zm-19.3 2.8c-2.9 1.2-5.5 3-7.7 5.2-2.2 2.2-3.9 4.8-5.1 7.6-1.2 2.9-1.8 6-1.8 9.1 0 9.6 5.7 18.2 14.6 21.9 8.9 3.7 19.1 1.6 25.8-5.1 6.8-6.8 8.8-17 5.2-25.9-3.7-8.8-12.4-14.6-21.9-14.6-3.2 0-6.2 0.6-9.1 1.8z"/>
+			</g>
+			<g id="B">
+				<path id="Layer" class="s11" d="m617.3 304.7c-10.2 0-19.4-6.1-23.3-15.5-3.9-9.4-1.7-20.3 5.5-27.5 7.2-7.2 18-9.4 27.4-5.5 9.5 3.9 15.6 13.1 15.6 23.3 0 3.3-0.7 6.6-1.9 9.7-1.3 3-3.2 5.8-5.5 8.1-2.3 2.4-5.1 4.2-8.2 5.5-3 1.3-6.3 1.9-9.6 1.9z"/>
+				<path id="Layer" fill-rule="evenodd" class="s12" d="m627.5 254.9c3.2 1.3 6.2 3.3 8.7 5.8 2.4 2.4 4.4 5.4 5.8 8.6 1.3 3.3 2 6.7 2 10.2 0 10.8-6.5 20.6-16.5 24.7-10 4.1-21.4 1.9-29.1-5.8-7.6-7.6-9.9-19.1-5.8-29.1 4.2-10 13.9-16.5 24.7-16.5 3.5 0 7 0.7 10.2 2.1zm-19.3 2.7c-2.8 1.2-5.5 3-7.7 5.2-2.2 2.2-3.9 4.8-5.1 7.7-1.2 2.8-1.8 5.9-1.8 9 0 9.6 5.8 18.3 14.6 21.9 8.9 3.7 19.1 1.7 25.9-5.1 6.7-6.8 8.8-17 5.1-25.8-3.7-8.9-12.3-14.7-21.9-14.7-3.1 0-6.2 0.7-9.1 1.8z"/>
+			</g>
+			<g id="X">
+				<path id="Layer" class="s11" d="m516.2 304.7c-10.2 0-19.4-6.1-23.3-15.5-3.9-9.5-1.7-20.3 5.5-27.5 7.2-7.2 18.1-9.4 27.5-5.5 9.4 4 15.5 13.1 15.5 23.3 0 3.3-0.6 6.6-1.9 9.7-1.3 3-3.1 5.8-5.5 8.1-2.3 2.4-5.1 4.2-8.1 5.5-3.1 1.3-6.4 1.9-9.7 1.9z"/>
+				<path id="Layer" fill-rule="evenodd" class="s12" d="m526.4 254.9c3.3 1.3 6.2 3.3 8.7 5.8 2.5 2.4 4.4 5.4 5.8 8.6 1.3 3.3 2 6.7 2 10.2 0 10.8-6.5 20.6-16.4 24.7-10 4.1-21.5 1.9-29.1-5.8-7.7-7.6-10-19.1-5.8-29.1 4.1-9.9 13.8-16.5 24.6-16.5 3.5 0 7 0.7 10.2 2.1zm-19.2 2.7c-2.9 1.2-5.5 3-7.7 5.2-2.2 2.2-4 4.8-5.2 7.7-1.2 2.8-1.8 5.9-1.8 9 0 9.6 5.8 18.3 14.7 21.9 8.8 3.7 19 1.7 25.8-5.1 6.8-6.8 8.8-17 5.1-25.8-3.6-8.9-12.3-14.7-21.9-14.7-3.1 0-6.2 0.7-9 1.8z"/>
+			</g>
+		</g>
+		<g id="Layer">
+			<g id="Layer">
+				<path id="Layer" class="s13" d="m375.6 156.5c0 0-88.9-1.1-100.5-3l-16.4 30.5c20.2 23.3 41.6 53.3 56.4 53.3h121c14.9 0 36.2-30 56.5-53.3l-16.4-30.5c-11.6 1.9-100.6 3-100.6 3z"/>
+				<path id="Layer" class="s14" d="m476.2 153.5l-3.6-6.8q-0.7 0.2-1.4 0.4-0.6 0.1-1.3 0.2-0.7 0.1-1.4 0.1-0.6 0.1-1.3 0.1h-184.4q-0.5 0-1 0-0.6-0.1-1.1-0.1-0.5-0.1-1.1-0.2-0.5-0.1-1-0.2l-3.5 6.5c11.6 1.9 100.5 3 100.5 3 0 0 89-1.1 100.6-3z"/>
+			</g>
+			<g id="RB">
+				<path id="Layer" class="s13" d="m642.5 192c-9-7.9-5.6-16.2-11.4-23.8 0.2 0.3 0.5 0.6 0.7 1 0 0-96.5-42.1-120.8-34.5-15.6 4.8-27.3 15.3-32.9 18.2l15.9 29.5c11.2-12.7 22-23 31.1-24.7 20-3.9 83.9 16.3 117.4 34.3z"/>
+				<path id="Layer" class="s14" d="m511 134.6c24.3-7.6 120.8 34.5 120.8 34.5-0.2-0.3-0.5-0.7-0.7-1l-0.1-0.1c-0.1-0.1-0.2-0.2-0.3-0.4l-0.1-0.1-0.3-0.4q0 0 0 0-0.1 0-0.1 0 0-0.1 0-0.1 0 0-0.1 0 0-0.1 0-0.1-0.1-0.1-0.1-0.1 0 0-0.1-0.1 0 0 0 0l-0.2-0.2q0-0.1-0.1-0.1 0 0 0-0.1-0.1 0-0.1 0-0.1-0.1-0.1-0.1 0 0 0-0.1-0.1 0-0.1 0 0 0 0-0.1-0.1 0-0.1 0 0-0.1-0.1-0.1 0 0 0-0.1-0.1 0-0.1 0 0-0.1-0.1-0.1l-0.2-0.2q0 0-0.1-0.1 0 0 0 0-0.1-0.1-0.1-0.1-0.1 0-0.1-0.1l-0.2-0.2q-0.2-0.1-0.3-0.2l-0.3-0.3-0.3-0.2q-0.1-0.1-0.1-0.1 0 0-0.1 0 0-0.1 0-0.1-0.1 0-0.1 0-0.2-0.2-0.4-0.3 0 0 0 0-0.1-0.1-0.1-0.1 0 0-0.1 0 0-0.1 0-0.1l-0.4-0.3-0.3-0.2q-0.1 0-0.1 0-0.1-0.1-0.1-0.1-0.1 0-0.1-0.1-0.1 0-0.1 0l-0.3-0.2q-0.1-0.1-0.1-0.1-0.1 0-0.1-0.1-0.1 0-0.2-0.1 0 0-0.1 0 0 0 0-0.1-0.1 0-0.1 0-0.1 0-0.1-0.1 0 0-0.1 0 0 0-0.1-0.1-0.1 0-0.1-0.1-0.1 0-0.2 0 0-0.1-0.1-0.1l-0.2-0.2q-0.5-0.2-0.9-0.4c-18.3-9.9-72-37-114.2-31.4-7.6 1-21.6 12.3-33.8 16.3l3.6 6.6c5.5-2.8 17.2-13.3 32.8-18.2z"/>
+			</g>
+			<g id="LB">
+				<path id="Layer" class="s14" d="m241.6 129.9c-42.2-5.6-95.9 21.4-114.2 31.4q-0.4 0.2-0.8 0.4l-0.3 0.2q0 0-0.1 0.1-0.1 0-0.1 0-0.1 0.1-0.2 0.1 0 0-0.1 0.1 0 0-0.1 0 0 0.1 0 0.1-0.1 0-0.1 0-0.1 0-0.1 0.1l-0.4 0.3-0.3 0.1q-0.1 0.1-0.1 0.1-0.1 0-0.1 0.1-0.1 0-0.2 0 0 0.1-0.1 0.1l-0.2 0.2-0.4 0.3q0 0-0.1 0 0 0.1 0 0.1-0.1 0-0.1 0 0 0-0.1 0.1 0 0-0.1 0 0 0.1-0.1 0.1 0 0-0.1 0.1 0 0-0.1 0.1 0 0 0 0 0 0-0.1 0 0 0.1 0 0.1-0.1 0-0.1 0 0 0.1-0.1 0.1 0 0-0.1 0.1 0 0-0.1 0.1 0 0-0.1 0l-0.2 0.2q-0.2 0.2-0.3 0.3l-0.2 0.2q-0.1 0-0.1 0.1-0.1 0-0.1 0 0 0.1-0.1 0.1 0 0-0.1 0.1 0 0 0 0 0 0.1 0 0.1-0.1 0-0.1 0 0 0 0 0-0.2 0.2-0.4 0.4l-0.1 0.1q-0.1 0.1-0.1 0.1-0.1 0.1-0.1 0.1 0 0-0.1 0.1 0 0-0.1 0.1l-0.1 0.1q0 0.1-0.1 0.1 0 0-0.1 0.1 0 0 0 0.1-0.1 0-0.1 0.1l-0.1 0.1q-0.1 0-0.1 0.1 0 0-0.1 0.1 0 0-0.1 0.1 0 0 0 0.1l-0.1 0.1q-0.2 0.2-0.3 0.4h-0.1q-0.2 0.2-0.3 0.4v0.1q-0.2 0.2-0.4 0.5c0 0 97.7-42 122-34.4 15.6 4.9 27.3 15.3 32.8 18.2l3.5-6.3c-12.5-3.6-27.1-15.6-35-16.6z"/>
+				<filter id="f3">
+					<feFlood flood-color="#65bc5e" flood-opacity="1" />
+					<feBlend mode="normal" in2="SourceGraphic"/>
+					<feComposite in2="SourceAlpha" operator="in" />
+				</filter>
+				<g id="Layer" filter="url(#f3)">
+					<path id="Layer" class="s15" d="m273.6 153.1l0.4 0.2z"/>
+					<path id="Layer" class="s15" d="m273.1 152.8c-5.6-2.8-17.3-13.3-32.8-18.2-24.2-7.5-121.3 34.1-122 34.4-5 7.4-2.2 15.3-10.8 23h-0.1c33.2-17.9 99.2-38.1 118.7-34.3 9.2 1.7 20 12.1 31.1 24.7l15.9-29.5z"/>
+					<path id="Layer" class="s16" d="m273.1 152.8q0.2 0.2 0.5 0.3c-0.2-0.1-0.3-0.2-0.5-0.3z"/>
+				</g>
+				<path id="Layer" class="s14" d="m258 183.2q0.3 0.5 0.7 0.9l16.4-30.6 3.5-6.5q-0.5-0.1-1-0.2c-0.3-0.1-0.7-0.2-1-0.3l-3.4 6.3-15.9 29.6q0.4 0.4 0.8 0.8"/>
+			</g>
+			<path id="Layer" class="s14" d="m478.1 152.8l-3.5-6.6q-0.5 0.1-1 0.3l-1 0.3 3.6 6.7 16.4 30.6c0.2-0.3 0.5-0.6 0.7-0.9 0.2-0.3 0.5-0.5 0.7-0.8z"/>
+			<path id="Layer" class="s15" d=""/>
+		</g>
+		<g id="Layer">
+			<g id="Layer">
+				<use id="Layer" href="#img1" transform="matrix(1,0,0,1,324.24,145.41)"/>
+				<path id="Layer" class="s17" d="m407.6 196.4c0 13.2-8 25.1-20.1 30.1-12.2 5.1-26.2 2.3-35.5-7-9.4-9.4-12.1-23.4-7.1-35.5 5-12.2 16.9-20.2 30.1-20.2 4.3 0 8.5 0.9 12.5 2.5 3.9 1.7 7.5 4.1 10.5 7.1 3.1 3 5.5 6.6 7.1 10.5 1.6 4 2.5 8.2 2.5 12.5z"/>
+			</g>
+			<path id="Layer" class="s18" d="m384 182c0 0 8.9-9.4 13.8-8.9q-1.1-1-2.3-2-0.1-0.1-0.3-0.2-0.1-0.1-0.3-0.2-0.1-0.2-0.3-0.3-0.1-0.1-0.3-0.2c-0.1-0.1 0 0 0 0l-1.2-0.9q-0.6-0.1-1.2-0.1c-5.2-0.5-16.9 4.5-16.9 4.5 0 0-11.6-5-16.8-4.5-0.4 0-0.8 0.1-1.2 0.1l-1.2 0.9h-0.1q-0.6 0.4-1.1 0.9-1.2 1-2.3 2c4.8-0.5 13.7 8.9 13.7 8.9 0 0-17.7 20.9-17 34.1q0.4 0.5 0.8 1 0.5 0.6 0.9 1.1 0.5 0.5 1 0.9 0.4 0.5 0.9 1c-0.4-12 22.4-30.1 22.4-30.1 0 0 22.8 18.1 22.4 30.1q0.4-0.4 0.9-0.9 0.5-0.5 0.9-1 0.5-0.5 0.9-1 0.4-0.5 0.8-1.1c0.8-13.2-16.9-34.1-16.9-34.1z"/>
+		</g>
+		<g id="Layer">
+			<g id="Layer">
+				<path id="Layer" class="s14" d="m549.1 5.5q-0.6-0.5-1.2-0.9l-2.4 110 53.3 7.2c-12.1-116.8-43-111-49.7-116.3z"/>
+				<path id="Layer" class="s13" d="m522 0.1c-10.8 0.5-12 11.5-12.1 15.2v1.3q0.6 11.6 1 23.2 0.3 11.7 0.3 23.3 0 11.6-0.3 23.3-0.4 11.6-1 23.3c9.9 2.2 38.5 5.3 38.5 5.3 0 0 0-21 0.7-50.7 0.8-37.5-1.2-59.7-1.2-59.7-6.4-4.5-13.6-4.9-25.9-4.5z"/>
+			</g>
+			<g id="Layer">
+				<path id="Layer" class="s14" d="m201 5.5q0.6-0.5 1.2-0.9l2.3 110-53.2 7.2c12-116.8 42.9-111 49.7-116.3z"/>
+				<path id="Layer" class="s13" d="m228 0.1c10.8 0.5 12.1 11.5 12.2 15.2v1.3q-0.7 11.6-1 23.2-0.3 11.7-0.3 23.3 0 11.6 0.3 23.3 0.3 11.6 1 23.3c-9.9 2.2-38.5 5.3-38.5 5.3 0 0-0.1-21-0.7-50.7-0.8-37.5 1.2-59.7 1.2-59.7 6.4-4.5 13.6-4.9 25.8-4.5z"/>
+			</g>
+		</g>
+	</g>
+</svg>
