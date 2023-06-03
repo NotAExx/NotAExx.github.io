@@ -1,0 +1,32 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 750 631" width="750" height="631">
+	<title>disconnected (1)-svg</title>
+	<defs>
+		<filter x="-50%" y="-50%" width="200%" height="200%" id="f1" ><feDropShadow dx="0" dy="0" stdDeviation="2.0833333333333335" flood-color="#ffffff" flood-opacity="1.5"/></filter>
+		<filter x="-50%" y="-50%" width="200%" height="200%" id="f2" ><feDropShadow dx="0" dy="0" stdDeviation="2.0833333333333335" flood-color="#ffffff" flood-opacity="1.5"/></filter>
+		<filter x="-50%" y="-50%" width="200%" height="200%" id="f3" ><feDropShadow dx="0" dy="0" stdDeviation="2.0833333333333335" flood-color="#ffffff" flood-opacity="1.5"/></filter>
+	</defs>
+	<style>
+		tspan { white-space:pre } 
+		.s0 { filter: url(#f1);fill: #ac48e0 } 
+		.s1 { filter: url(#f2);fill: #ac48e0 } 
+		.s2 { filter: url(#f3);fill: #ac48e0 } 
+		.t3 { font-size: 27px;fill: #ac48e0;font-weight: 400;font-family: "DejaVuSans", "DejaVu Sans" } 
+		.t4 { font-size: 21px;fill: #ac48e0;font-weight: 400;font-family: "DejaVuSans", "DejaVu Sans" } 
+		.t5 { font-size: 38px;fill: #ac48e0;font-weight: 400;font-family: "DejaVuSans", "DejaVu Sans" } 
+	</style>
+	<g id="Layer">
+		<path id="Layer" class="s0" d="m664.4 214c-6.8-16.7-20.6-20.9-21.9-22-11.7-10.3-2.4-21.2-19.9-30.7-18.3-9.9-72-37-114.2-31.4-9.2 1.3-27.9 17.6-41.2 17.6h-184.4c-13.3 0-32-16.3-41.2-17.6-42.2-5.6-95.9 21.5-114.2 31.4-17.5 9.5-8.2 20.4-19.9 30.7-1.3 1.1-15.1 5.3-21.9 22-62.7 156-87.3 255.1-85.5 315.1 2.9 94.4 76.6 101.4 76.6 101.4 37-8.7 111.5-129.2 168.5-129.2h259.6c57 0 131.5 120.5 168.5 129.2 0 0 73.7-7 76.6-101.4 1.9-60-22.8-159.1-85.5-315.1z"/>
+		<path id="Layer" class="s1" d="m548.4 115l50.4 6.8c-12.1-116.8-43-111-49.7-116.3q-0.6-0.5-1.2-0.9c-6.5-4.5-13.6-4.9-25.9-4.5-10.8 0.4-12 11.5-12.1 15.2v1.3q0.6 11.6 1 23.2 0.3 11.7 0.3 23.3 0 11.6-0.3 23.3-0.4 11.6-1 23.2c9.7 2.3 37.7 5.3 38.5 5.4z"/>
+		<path id="Layer" class="s2" d="m201.7 115c0 0 28.6-3 38.5-5.3q-0.7-11.6-1-23.3-0.3-11.6-0.3-23.2 0-11.7 0.3-23.3 0.3-11.7 1-23.3v-1.3c-0.1-3.7-1.4-14.8-12.2-15.2-12.3-0.4-19.4 0-25.8 4.5q-0.6 0.4-1.2 0.9c-6.8 5.3-37.7-0.5-49.7 116.3l50.4-6.9z"/>
+		<text id="DISCONNECTED" style="transform: matrix(1.724,0,-0.019,1.659,200.552,461.914)" >
+			<tspan x="0" y="0" class="t3">D</tspan><tspan  y="0" class="t3">I</tspan><tspan  y="0" class="t3">S</tspan><tspan  y="0" class="t3">C</tspan><tspan  y="0" class="t3">O</tspan><tspan  y="0" class="t3">N</tspan><tspan  y="0" class="t3">N</tspan><tspan  y="0" class="t3">E</tspan><tspan  y="0" class="t3">C</tspan><tspan  y="0" class="t3">T</tspan><tspan  y="0" class="t3">E</tspan><tspan  y="0" class="t3">D</tspan><tspan  y="0" class="t3">
+</tspan>
+		</text>
+		<text id="      TIKTOK  NOTAEXZ" style="transform: matrix(1.724,0,-0.019,1.659,207.552,314.914)" >
+			<tspan x="0" y="0" class="t3"> </tspan><tspan  y="0" class="t3"> </tspan><tspan  y="0" class="t3"> </tspan><tspan  y="0" class="t3"> </tspan><tspan  y="0" class="t3"> </tspan><tspan  y="0" class="t3"> </tspan><tspan  y="0" class="t3">T</tspan><tspan  y="0" class="t3">I</tspan><tspan  y="0" class="t3">K</tspan><tspan  y="0" class="t3">T</tspan><tspan  y="0" class="t3">O</tspan><tspan  y="0" class="t3">K</tspan><tspan  y="0" class="t3">
+</tspan>
+			<tspan x="0" y="45.4" class="t4"> </tspan><tspan  y="45.4" class="t5">N</tspan><tspan  y="45.4" class="t5">O</tspan><tspan  y="45.4" class="t5">T</tspan><tspan  y="45.4" class="t5">A</tspan><tspan  y="45.4" class="t5">E</tspan><tspan  y="45.4" class="t5">X</tspan><tspan  y="45.4" class="t5">Z
+</tspan>
+		</text>
+	</g>
+</svg>
