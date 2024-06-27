@@ -8,7 +8,7 @@
 }
 
 .custom.disconnected { 
-    background: url(disconnected.gif);
+    background: url(disconnected.svg);
 }
 
 .custom.disconnected div {
